@@ -22,7 +22,7 @@
 
 ![Thomas Henrique GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=thomashfr&count_private=true&show_icons=true&hide_border=true)
 
-![Thomas Henrique Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomashfr&hide=objective-c&layout=compact)
+![Thomas Henrique Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomashfr&hide=objective-c&layout=compact&hide_border=true)
 
 
 
