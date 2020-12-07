@@ -1,6 +1,6 @@
 
 
-  ## Olá! Eu Thomas Henrique! Seja bem vindo!
+  ## Olá! Eu sou Thomas Henrique! Seja bem vindo!
 
 
 
