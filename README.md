@@ -28,10 +28,10 @@
 
 <div align="center">
 <div style="display: flex;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomashfr&show_icons=true&locale=en&layout=compact&hide_border=true" alt="thomashfr" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomashfr&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=0d1117&text_color=daf7dc" alt="thomashfr" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomashfr&show_icons=true&hide_border=true" alt="thomashfr" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomashfr&show_icons=true&hide_border=true&bg_color=0d1117&text_color=daf7dc" alt="thomashfr" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomashfr&hide_border=true" alt="thomashfr" />
+<!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomashfr&hide_border=true&bg_color=0d1117&text_color=daf7dc" alt="thomashfr" />-->
 </div>
 </div>
